@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amrutkiran Kshirsagar</h1>
-<h2 align="center">
+
+<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">
   See my AI-based live project:
   <a href="https://amrutkiran-f780f.web.app">amrutkiran-f780f.web.app</a>
-</h2>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-amrut&label=Profile%20views&color=0e75b6&style=flat" alt="coder-amrut" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://amrutakk.github.io/Personal-Website/](https://amrutakk.github.io/Personal-Website/)
