@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="center">
-  See my AI-based live project:
+  About me & my AI-based live project:
   <a href="https://amrutkiran-f780f.web.app">amrutkiran-f780f.web.app</a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-amrut&label=Profile%20views&color=0e75b6&style=flat" alt="coder-amrut" /> </p>
